@@ -1,5 +1,8 @@
 name: panel
 channels:
+  - bioconda
+  - conda-forge
+  - r
   - defaults
   - pyviz
 dependencies:
