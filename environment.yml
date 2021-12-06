@@ -1,0 +1,13 @@
+name: panel
+channels:
+  - defaults
+  - pyviz
+dependencies:
+  - notebook
+  - jupyter-panel-proxy
+  - jupyter
+  - seaborn
+  - python=3
+  - hvplot
+  - console_shortcut
+prefix: E:\anaconda3\envs\panel
