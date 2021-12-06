@@ -1,5 +1,6 @@
 name: panel
 channels:
+  - pyviz
   - bioconda
   - conda-forge
   - r
